@@ -1,0 +1,9 @@
+bad is published under nba
+good is published under nba
+Consumer requests for topic vidisha 
+Consumer requests for topic 2
+Consumer requests for topic nba
+Broker sends topic messge good
+bad
+
+ to the consumer 
